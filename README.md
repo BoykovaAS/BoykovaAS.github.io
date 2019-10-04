@@ -1,6 +1,6 @@
 # BoykovaAS.github.io
 # Отчет а лабораторных работах
-# студент группы [ИДБ-15-ХХ](https://github.com/stankin/design-2018/wiki/list-idb-15-xx) Фамилия И.О.
+# студент группы [ИДБ-16-07](https://github.com/stankin/design-2018/wiki/list-idb-15-xx) Бойкова А.С.
 
 ## Лабораторная 1
 
