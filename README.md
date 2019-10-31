@@ -1,20 +1,81 @@
 # BoykovaAS.github.io
 # Отчет а лабораторных работах
-# студент группы [ИДБ-16-07](https://github.com/stankin/design-2018/wiki/list-idb-15-xx) Бойкова А.С.
+# Отчет по лабораторным работам
+## Лабораторная работа №1
 
-## Лабораторная 1
+### Создание IDEF0-диаграммы "Выпечь вишнёвую булочку" в RAMUS (программное средство разработки структурно-функциональных моделей)
 
-Приготовление кофе
+#### Необходимо выпечь вишнёвую булочку. 
 
-![](http://www.plantuml.com/plantuml/png/RP3DIWCn58NNpLDSkbBm8Mfz2DTXPh13quaaKro8q5OHD_xeIjouT3keGQrq-Whdlf6dp4A5RYwvNxwRasGGQnlgwSIPE2whOnliH39dOvHJqnlQR7mK_BJA3xppGGv7PLsOtdu8_gGZGqU5eWzv4VwYCzETqiSz6ftXK-UwGDCN6-K_Of3WJgz9MgnP4_dSu8NI5POKM5gzG18yRyRmndP1-HNVI5YHf5zd1q_T2b_SQadmWSGvDe87adSqUu97h3RvEjDpBFMIjxaLhD6oR0_Hcrs-QbJcXMHbo5nX1aMLy-T-0000)
+* IDEF0-диаграмма в развернутом виде:
 
-![](http://www.plantuml.com/plantuml/png/fO_FIiD04CRFtQSOUj93mGSGQUeva9ld9LdRq4rMPZTui49RlGhw0efl4Fy4IiNu2hDlvAIRIkyU4ePlVljztuoja-YgGWixpyihYR80cJg3S2C64vdEfsYgCZitcgMBMUwK64I8vZee4yq8WmOpXOVIxO5VPLKghVgterQN3fm1pASp1rcEAdMvAKNecvo0j32aLshzsY_z7NtIDsreE-o1k0UUwOtQ7cZfdUeTrkon951FLFibRVpAhwd-imYxH__0kvP--DymiHgA_OrH85wwj_JHLTbbV54JKe2sBDvtSGcCHd0K7Gl-kZ4MVCBfWgT4n2miphYo6Aiogmhz2m00)
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/model.png)
 
-Ссылки на доп.материалы
+#### Пекарь при помощи духовки, используя ингридиенты, выпекает вишнёвую булочку, придерживаясь рецепта.
 
-## Лабораторная 2
+* [IDEF0-диаграмма в формате .rsf](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D1%84%D0%B5.rsf)
 
-## Лабораторная 3
+### Создание диаграммы классов и диаграммы прецедентов "Выпечь вишнёвую булочку" в PLANTUML (программное средство автоматической генерации UML-диаграмм)
+
+#### Пекарю необходимо выпечь вишнёвую булочку. 
+
+* [Текст](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/%D1%82%D0%B5%D0%BA%D1%81%D1%82_%D0%9B%D0%A01.txt) и [рисунок](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/%D1%82%D0%B0%D0%B1%D0%BB_%D0%9B%D0%A01.png) Диаграммы классов<br>
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/%D1%82%D0%B0%D0%B1%D0%BB_%D0%9B%D0%A01.png)
+
+#### Пекарь являтеся человеком, владеющим инструментом (духовкой). Пекарь умеет выпекать булочки используя ингридиенты и придерживаясь рецепта.
+
+* [Текст](https://github.com/semionovaa/github.io/blob/master/%D1%82%D0%B5%D0%BA%D1%81%D1%821.txt) и [рисунок](https://github.com/semionovaa/github.io/blob/master/1%20%D0%BB%D0%B0%D0%B1%D0%B0%20%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%BA%D0%B5%D0%BA%D0%B8.jpg) Диаграммы прецедентов<br>
+![none](https://github.com/semionovaa/github.io/blob/master/1%20%D0%BB%D0%B0%D0%B1%D0%B0%20%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%BA%D0%B5%D0%BA%D0%B8.jpg)
+***
+## Лабораторная работа №2
+
+### Определение надсистемы (среды функционирования)
+
+* IDEF0-диаграмма (блок A0)
+
+![none](https://github.com/semionovaa/github.io/blob/master/2_1.png)
+
+* IDEF0-диаграмма (блоки A1, A2, A3, A4)
+
+![none](https://github.com/semionovaa/github.io/blob/master/2_2.png)
+
+### Определение автоматизируемых видов деятельности
+
+* DFD-диаграмма "Составление отчёта" (блок A3-03)
+
+![none](https://github.com/semionovaa/github.io/blob/master/3.png)
+
+* [Диаграмма формате .rsf](https://github.com/semionovaa/github.io/blob/master/LABA-2_Semionova.rsf)
+
+### Описание участников автоматизируемой деятельности
+
+* [Текст](https://github.com/semionovaa/github.io/blob/master/2laba.txt) и [рисунок](http://www.plantuml.com/plantuml/png/SoWkIImgAStDuRAwiE1YyuLT5_PTs0J4MoxikDXqOUk5tHTxh1HqTUqKD2xCkzXoOT_5XWjxBkm6IkoziEF2LeKBsozi0EhP0AI1-ZGL29io_s83M78ha0PgH3PX0rZ_Gg0bJHSRWAPi0Lko2weJAB4HA4MiBihjctIn6oYquM8xkYukXzIy552G0G00)
+диаграммы прецедентов<br>
+![none](http://www.plantuml.com/plantuml/png/SoWkIImgAStDuRAwiE1YyuLT5_PTs0J4MoxikDXqOUk5tHTxh1HqTUqKD2xCkzXoOT_5XWjxBkm6IkoziEF2LeKBsozi0EhP0AI1-ZGL29io_s83M78ha0PgH3PX0rZ_Gg0bJHSRWAPi0Lko2weJAB4HA4MiBihjctIn6oYquM8xkYukXzIy552G0G00)
+***
+
+## Лабораторная работа №3
+
+### Описание хранилищ данных
+
+* DFD-диаграмма "Оформление поставок" (блок A1-03)
+
+![none](https://github.com/semionovaa/github.io/blob/master/3_laba_diagrama.png)
+
+* [Диаграмма формате .rsf](https://github.com/semionovaa/github.io/blob/master/LABA-3_Semionova.rsf)
+
+### Описание взаимодействия участников автоматизируемой деятельности
+
+* [Текст](https://github.com/semionovaa/github.io/blob/master/3laba.txt) и [рисунок](http://www.plantuml.com/plantuml/png/ZL8xJiD05EnzYgTKK7012fIhB5uNaN1maeKw2KeL90IAHCVd1aba2oiXpXLcRyJiCp6MAuhrhZtpPkOzRt_YpDZTfJUHYTtjM7huy0_OeSAMAqVfvoYmzuyzCHF98ckSkJQJXCGLrZZWu9Se19NWY-yxBkv-eVHHb55y40yoCtIiUFTJubkKs6EjZBJ3U3rfA6gRK9-e_DnF6IsdPucTuh5jvtd6IZe2Bihauaf6SYcKs51aAiXFkVqY6WKuavgM1XepQlC5Tme93dpu6QgGGB_F_KnF9OeerVgwtBPTsjE8R81ZxMPmRrmIph7zimo6b6HTSFDFWcCtHIFtlqYDGHOCtWWUwzatFT53rGla-eENn3YN825doYx98rHXunVrNS0tAdKgpt_bNP1_OV6HZBtoLQBJVzBkl9yCBI_S3m00)
+диаграммы последовательности<br>
+![none](http://www.plantuml.com/plantuml/png/ZL8xJiD05EnzYgTKK7012fIhB5uNaN1maeKw2KeL90IAHCVd1aba2oiXpXLcRyJiCp6MAuhrhZtpPkOzRt_YpDZTfJUHYTtjM7huy0_OeSAMAqVfvoYmzuyzCHF98ckSkJQJXCGLrZZWu9Se19NWY-yxBkv-eVHHb55y40yoCtIiUFTJubkKs6EjZBJ3U3rfA6gRK9-e_DnF6IsdPucTuh5jvtd6IZe2Bihauaf6SYcKs51aAiXFkVqY6WKuavgM1XepQlC5Tme93dpu6QgGGB_F_KnF9OeerVgwtBPTsjE8R81ZxMPmRrmIph7zimo6b6HTSFDFWcCtHIFtlqYDGHOCtWWUwzatFT53rGla-eENn3YN825doYx98rHXunVrNS0tAdKgpt_bNP1_OV6HZBtoLQBJVzBkl9yCBI_S3m00)
+
+### Описание участников автоматизируемой деятельности
+
+* [Текст](https://github.com/semionovaa/github.io/blob/master/3_laba.txt) и [рисунок](http://www.plantuml.com/plantuml/png/bP51IWCn58RtESLZbaBlqAiKwqAeBfowai9qTAVBWYAqKl40eHWxp9Zq2j-xaHDmIWW5SHDUtllVH_u_ut8-kPdVNitC-MnIbi8pbXRBNkwCoEMqFrZ7EpiidWONMniEDBeyjXOo0BO4hRNIUpxZZ3O1VV329XOh0XrVU88kU_cJMGpxhtIHYDVwrEQQm3TEAz4QHzUN3mGyzeWeM67nU7t42K7O3wPmHG9zf-4GY-slcq2RKDwqmhAZeSCM_yp394cUZKOdSiaLgVDizeUbN9q_tOmlhgVz7_y0)
+диаграммы классов<br>
+![none](http://www.plantuml.com/plantuml/png/bP51IWCn58RtESLZbaBlqAiKwqAeBfowai9qTAVBWYAqKl40eHWxp9Zq2j-xaHDmIWW5SHDUtllVH_u_ut8-kPdVNitC-MnIbi8pbXRBNkwCoEMqFrZ7EpiidWONMniEDBeyjXOo0BO4hRNIUpxZZ3O1VV329XOh0XrVU88kU_cJMGpxhtIHYDVwrEQQm3TEAz4QHzUN3mGyzeWeM67nU7t42K7O3wPmHG9zf-4GY-slcq2RKDwqmhAZeSCM_yp394cUZKOdSiaLgVDizeUbN9q_tOmlhgVz7_y0)
+***
 
 ## Лабораторная 4
 
