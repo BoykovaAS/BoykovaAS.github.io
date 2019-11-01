@@ -58,9 +58,9 @@
 
 ### Описание хранилищ данных
 
-* DFD-диаграмма "Оформление поставок" (блок A1-03)
+* DFD-диаграмма "Загрузка аэропресса" (блок A1-03)
 
-![none](https://github.com/semionovaa/github.io/blob/master/3_laba_diagrama.png)
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/model_2.2.png)
 
 * [Диаграмма формате .rsf](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D1%84%D0%B5.rsf)
 
@@ -72,9 +72,9 @@
 
 ### Описание участников автоматизируемой деятельности
 
-* [Текст](https://github.com/semionovaa/github.io/blob/master/3_laba.txt) и [рисунок](http://www.plantuml.com/plantuml/png/bP51IWCn58RtESLZbaBlqAiKwqAeBfowai9qTAVBWYAqKl40eHWxp9Zq2j-xaHDmIWW5SHDUtllVH_u_ut8-kPdVNitC-MnIbi8pbXRBNkwCoEMqFrZ7EpiidWONMniEDBeyjXOo0BO4hRNIUpxZZ3O1VV329XOh0XrVU88kU_cJMGpxhtIHYDVwrEQQm3TEAz4QHzUN3mGyzeWeM67nU7t42K7O3wPmHG9zf-4GY-slcq2RKDwqmhAZeSCM_yp394cUZKOdSiaLgVDizeUbN9q_tOmlhgVz7_y0)
+* [Текст](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/TablCode_LR3.txt) и [рисунок](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/TablPic_LR3.png)
 диаграммы классов<br>
-![none](http://www.plantuml.com/plantuml/png/bP51IWCn58RtESLZbaBlqAiKwqAeBfowai9qTAVBWYAqKl40eHWxp9Zq2j-xaHDmIWW5SHDUtllVH_u_ut8-kPdVNitC-MnIbi8pbXRBNkwCoEMqFrZ7EpiidWONMniEDBeyjXOo0BO4hRNIUpxZZ3O1VV329XOh0XrVU88kU_cJMGpxhtIHYDVwrEQQm3TEAz4QHzUN3mGyzeWeM67nU7t42K7O3wPmHG9zf-4GY-slcq2RKDwqmhAZeSCM_yp394cUZKOdSiaLgVDizeUbN9q_tOmlhgVz7_y0)
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/TablPic_LR3.png)
 ***
 
 ## Лабораторная 4
