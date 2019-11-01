@@ -41,7 +41,7 @@
 
 ### Определение автоматизируемых видов деятельности
 
-* DFD-диаграмма "Составление отчёта" (блок A3-03)
+* DFD-диаграмма "Загрузка аэропресса" (блок A3-03)
 
 ![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/model_2.2.png)
 
@@ -62,13 +62,13 @@
 
 ![none](https://github.com/semionovaa/github.io/blob/master/3_laba_diagrama.png)
 
-* [Диаграмма формате .rsf](https://github.com/semionovaa/github.io/blob/master/LABA-3_Semionova.rsf)
+* [Диаграмма формате .rsf](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D1%84%D0%B5.rsf)
 
 ### Описание взаимодействия участников автоматизируемой деятельности
 
-* [Текст](https://github.com/semionovaa/github.io/blob/master/3laba.txt) и [рисунок](http://www.plantuml.com/plantuml/png/ZL8xJiD05EnzYgTKK7012fIhB5uNaN1maeKw2KeL90IAHCVd1aba2oiXpXLcRyJiCp6MAuhrhZtpPkOzRt_YpDZTfJUHYTtjM7huy0_OeSAMAqVfvoYmzuyzCHF98ckSkJQJXCGLrZZWu9Se19NWY-yxBkv-eVHHb55y40yoCtIiUFTJubkKs6EjZBJ3U3rfA6gRK9-e_DnF6IsdPucTuh5jvtd6IZe2Bihauaf6SYcKs51aAiXFkVqY6WKuavgM1XepQlC5Tme93dpu6QgGGB_F_KnF9OeerVgwtBPTsjE8R81ZxMPmRrmIph7zimo6b6HTSFDFWcCtHIFtlqYDGHOCtWWUwzatFT53rGla-eENn3YN825doYx98rHXunVrNS0tAdKgpt_bNP1_OV6HZBtoLQBJVzBkl9yCBI_S3m00)
+* [Текст](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/DiagCode_LR3.txt) и [рисунок](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/DiagPic_LR3.png)
 диаграммы последовательности<br>
-![none](http://www.plantuml.com/plantuml/png/ZL8xJiD05EnzYgTKK7012fIhB5uNaN1maeKw2KeL90IAHCVd1aba2oiXpXLcRyJiCp6MAuhrhZtpPkOzRt_YpDZTfJUHYTtjM7huy0_OeSAMAqVfvoYmzuyzCHF98ckSkJQJXCGLrZZWu9Se19NWY-yxBkv-eVHHb55y40yoCtIiUFTJubkKs6EjZBJ3U3rfA6gRK9-e_DnF6IsdPucTuh5jvtd6IZe2Bihauaf6SYcKs51aAiXFkVqY6WKuavgM1XepQlC5Tme93dpu6QgGGB_F_KnF9OeerVgwtBPTsjE8R81ZxMPmRrmIph7zimo6b6HTSFDFWcCtHIFtlqYDGHOCtWWUwzatFT53rGla-eENn3YN825doYx98rHXunVrNS0tAdKgpt_bNP1_OV6HZBtoLQBJVzBkl9yCBI_S3m00)
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/DiagPic_LR3.png)
 
 ### Описание участников автоматизируемой деятельности
 
