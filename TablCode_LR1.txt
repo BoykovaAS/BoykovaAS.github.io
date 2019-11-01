@@ -1,0 +1,12 @@
+@startuml
+skinparam class { 
+BackgroundColor White 
+ArrowColor Black 
+BorderColor Black 
+} 
+class "Бариста" as Бариста { 
+Аэропресс
+Чашка кофе. Приготовление кофе. (Кофейное зерно, Вода, Инструкция по приготовлению) 
+} 
+hide circle
+@enduml
