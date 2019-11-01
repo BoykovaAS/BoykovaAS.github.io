@@ -5,11 +5,11 @@
 
 ### Создание IDEF0-диаграммы "Приготовление кофе" в RAMUS (программное средство разработки структурно-функциональных моделей)
 
-#### Необходимо выпечь вишнёвую булочку. 
+#### Необходимо приготовить кофе. 
 
 * IDEF0-диаграмма в развернутом виде:
 
-![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/model.png)
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/model_1.png)
 
 #### Бариста при помощи аэропресса, используя ингридиенты, готовит кофе, придерживаясь инструкции по приготовлению.
 
@@ -19,13 +19,13 @@
 
 #### Бариста необходимо приготовить кофе. 
 
-* [Текст]() и [рисунок](h) Диаграммы классов<br>
-![none]()
+* [Текст](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/TablCode_LR1.txt) и [рисунок](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/TablPic_LR1.png) Диаграммы классов<br>
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/TablPic_LR1.png)
 
-#### Пекарь являтеся человеком, владеющим инструментом (духовкой). Пекарь умеет выпекать булочки используя ингридиенты и придерживаясь рецепта.
+#### Бариста являтеся человеком, владеющим инструментом (аэропрессом). Бариста умеет готовить кофе используя ингридиенты и придерживаясь инструкции.
 
-* [Текст](https://github.com/semionovaa/github.io/blob/master/%D1%82%D0%B5%D0%BA%D1%81%D1%821.txt) и [рисунок](https://github.com/semionovaa/github.io/blob/master/1%20%D0%BB%D0%B0%D0%B1%D0%B0%20%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%BA%D0%B5%D0%BA%D0%B8.jpg) Диаграммы прецедентов<br>
-![none](https://github.com/semionovaa/github.io/blob/master/1%20%D0%BB%D0%B0%D0%B1%D0%B0%20%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%BA%D0%B5%D0%BA%D0%B8.jpg)
+* [Текст](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/DiagCode_LR1.txt) и [рисунок](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/DiagPic_LR1.png) Диаграммы прецедентов<br>
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/DiagPic_LR1.png)
 ***
 ## Лабораторная работа №2
 
@@ -33,25 +33,25 @@
 
 * IDEF0-диаграмма (блок A0)
 
-![none](https://github.com/semionovaa/github.io/blob/master/2_1.png)
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/model_1.png)
 
 * IDEF0-диаграмма (блоки A1, A2, A3, A4)
 
-![none](https://github.com/semionovaa/github.io/blob/master/2_2.png)
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/model_2.png)
 
 ### Определение автоматизируемых видов деятельности
 
 * DFD-диаграмма "Составление отчёта" (блок A3-03)
 
-![none](https://github.com/semionovaa/github.io/blob/master/3.png)
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/model_3.png)
 
-* [Диаграмма формате .rsf](https://github.com/semionovaa/github.io/blob/master/LABA-2_Semionova.rsf)
+* [Диаграмма формате .rsf](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D1%84%D0%B5.rsf)
 
 ### Описание участников автоматизируемой деятельности
 
-* [Текст](https://github.com/semionovaa/github.io/blob/master/2laba.txt) и [рисунок](http://www.plantuml.com/plantuml/png/SoWkIImgAStDuRAwiE1YyuLT5_PTs0J4MoxikDXqOUk5tHTxh1HqTUqKD2xCkzXoOT_5XWjxBkm6IkoziEF2LeKBsozi0EhP0AI1-ZGL29io_s83M78ha0PgH3PX0rZ_Gg0bJHSRWAPi0Lko2weJAB4HA4MiBihjctIn6oYquM8xkYukXzIy552G0G00)
+* [Текст](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/DiagCode_LR2.txt) и [рисунок](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/DiagPic_LR2.png)
 диаграммы прецедентов<br>
-![none](http://www.plantuml.com/plantuml/png/SoWkIImgAStDuRAwiE1YyuLT5_PTs0J4MoxikDXqOUk5tHTxh1HqTUqKD2xCkzXoOT_5XWjxBkm6IkoziEF2LeKBsozi0EhP0AI1-ZGL29io_s83M78ha0PgH3PX0rZ_Gg0bJHSRWAPi0Lko2weJAB4HA4MiBihjctIn6oYquM8xkYukXzIy552G0G00)
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/DiagPic_LR2.png)
 ***
 
 ## Лабораторная работа №3
