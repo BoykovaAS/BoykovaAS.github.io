@@ -1,0 +1,20 @@
+@startuml
+actor "Бариста" as p
+database "Данные о весах" as q
+participant "Инструкция по приготовлению" as m
+participant "Весы" as d
+actor "Руководитель" as cd
+database "БД приготовленных чашек кофе" as t
+p -> q : Граммовка кофе
+q -> p 
+p -> m : Наполнение циллиндра
+m -> p
+p -> d : Давление на поршень
+d -> cd
+activate cd
+cd -> m : Повторная Граммовка кофе
+m -> cd
+cd -> p : Отправка на переделывание (при необходимости)
+cd -> t : Наполнение циллиндра
+deactivate cd
+@enduml
