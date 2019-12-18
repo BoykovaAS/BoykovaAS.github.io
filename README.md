@@ -77,7 +77,7 @@
 ![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/TablPic_LR3.png)
 ***
 
-## Лабораторная 4
+## Лабораторная №4
 * ВКР: Разработка информационного и методического обеспечения для редизайна сайта организации
 
 * Объект исследований: дизайн сайта организации: структура сайта, цветовое оформление функциональных блоков, тестовое наполнение.
@@ -96,27 +96,28 @@
 
 **Точка зрения:** менеджер проекта.
 
-## Лабораторная 5
-**А0:**
+## Лабораторная №5   
+
+**А0:**   
 ![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/01_A0.png)<br>
 ![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/02_A0.png)<br>
 
-**А1:**
+**А1:**    
 ![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/03_A1.png)<br>
 
-**А2:**
+**А2:**   
 ![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/04_A2.png)<br>
 
-**А3:**
+**А3:**    
 ![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/05_A3.png)<br>
 ![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/06_A31.png)<br>
 ![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/07_A32.png)<br>
 ![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/08_A33.png)<br>
 ![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/09_A34.png)<br>
 
-**А4:**
+**А4:**     
 ![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/10_A4.png)<br>
 
-## Лабораторная 6
+## Лабораторная №6
 
-## Лабораторная 7
+## Лабораторная №7
