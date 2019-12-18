@@ -78,8 +78,44 @@
 ***
 
 ## Лабораторная 4
+* ВКР: Разработка информационного и методического обеспечения для редизайна сайта организации
+
+* Объект исследований: дизайн сайта организации: структура сайта, цветовое оформление функциональных блоков, тестовое наполнение.
+
+* Предмет исследований: дизайн сайта организации: рекомендации по цветовому оформлению сайтов, разработка контекстного наполнения 
+
+* Цель моделирования: продвижение сайта организации посредством модернизации дизайна сайта.
+
+* Процессы верхнего уровня:<br>
+  **А0:** Редизайн сайта организации.<br>
+  **А1:** Определение дизайна.<br>
+  **А2:** Внедрение дизайна на сайт.<br>
+  **А3:** Продвижение сайта.<br>
+  **А4:** Аналитика сайта.<br>
+
+
+**Точка зрения:** менеджер проекта.
 
 ## Лабораторная 5
+**А0:**
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/01_A0.png)<br>
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/02_A0.png)<br>
+
+**А1:**
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/03_A1.png)<br>
+
+**А2:**
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/04_A2.png)<br>
+
+**А3:**
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/05_A3.png)<br>
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/06_A31.png)<br>
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/07_A32.png)<br>
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/08_A33.png)<br>
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/09_A34.png)<br>
+
+**А4:**
+![none](https://github.com/BoykovaAS/BoykovaAS.github.io/blob/master/10_A4.png)<br>
 
 ## Лабораторная 6
 
