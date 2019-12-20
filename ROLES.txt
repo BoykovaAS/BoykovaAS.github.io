@@ -1,0 +1,46 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Роль"
+
+class People as "Люди"
+class Machanisms as "Механизмы"
+
+class Team as "Команда\nразработки"
+class Instruments as "Инструменты\nweb-разработки"
+
+class Manager as "Менеджер\nпроекта "
+class Developer as "Web-\nразработчик"
+class ContentManager as "Контент-менеджер"
+class Programmer as "Программист"
+class SEO as "SEO-\nспециалист"
+
+class Figma as "Figma"
+class MSWord as "MS Word"
+class IDE as "IDE"
+class GA as "Google Analytics"
+
+Entity <|-- People 
+Entity <|-- Machanisms 
+
+People <|-- Team
+Machanisms <|-- Instruments 
+
+Team <|-- Manager 
+Team <|-- Developer 
+Team <|-- ContentManager 
+Team <|-- Programmer 
+Team <|-- SEO 
+
+Instruments <|-- Figma 
+Instruments <|-- MSWord 
+Instruments <|-- IDE 
+Instruments <|-- GA 
+
+hide members
+hide circle
+hide methods
+@enduml

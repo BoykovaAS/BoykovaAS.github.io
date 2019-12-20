@@ -1,0 +1,58 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Поток"
+
+class Input as "Входной\nпоток"
+class Output as "Выходной\nпоток"
+class Control as "Поток\nуправления"
+
+class INElectronic as "Электронная\nформа"
+class INText as "Текстовый\nдокумен"
+
+class OUTText as "Текстовый\nдокумен"
+class OUTElectronic as "Электронная\nформа"
+
+class CTRLElectronic as "Элетронная\nформа"
+class CTRLText as "Текстовый\nдокумен"
+
+class Products as "Информация о\nпродукте"
+class Codes as "Данные исходного\nсайта"
+class Website as "Разработанный сайт"
+class ApplicationForm as "Заявка от фирмы"
+class Report as "Отчет\nо конверсии"
+class Gost as "ГОСТы"
+class Instructions as "Эл. инструкции\nразработки сайтов"
+class Requirements as "Писменные требования\nзаказчика"
+
+Entity <|-- Input 
+Entity <|-- Output 
+Entity <|-- Control 
+
+Input <|-- INElectronic 
+Input <|-- INText
+
+Output <|-- OUTElectronic 
+Output <|-- OUTText
+
+Control <|-- CTRLElectronic
+Control <|-- CTRLText
+  
+INElectronic  <|-- Products
+INElectronic  <|-- Codes 
+INText        <|-- ApplicationForm
+
+OUTElectronic <|-- Website 
+OUTText       <|-- Report 
+
+CTRLElectronic <|-- Gost 
+CTRLElectronic <|-- Requirements 
+CTRLText       <|-- Instructions 
+
+hide members
+hide circle
+hide methods
+@enduml
