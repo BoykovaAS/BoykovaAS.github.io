@@ -1,0 +1,49 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Модуль"
+
+class Window as "Экранная форма"
+
+class Competitors as "Форма\nпоиска\nуспешных\nконкурентов"
+class Market as "Форма\nанализа\nбизнес-рынка"
+class Factors as "Форма\nвыявления\nключевых\nбизнес-\nфакторов"
+class Strategy as "Форма\nсоставления\nоптимальной\nстратегии\nпродвижения сайта"
+
+class KeySelection as "Форма\nподбора ключей\nпо тематике\nбизнеса"
+class KeyApproval as "Форма\nутверждения\nсписка ключей"
+class Scheduling as "Форма\nсоставления\nSEO-плана"
+
+class SiteOptimization as "Форма\nоптимизации\nструктуры сайта"
+class TechnicalOptimization as "Форма\nтехнической\nоптимизации"
+class ContentOptimization as "Форма\nуоптимизации\nконтента"
+class Usability as "Форма \nулучшения\nюзабилити"
+
+class Advertising as "Форма\nнастройки\nконтекстной\nрекламы"
+class SocialNetwork as "Форма\nоптимизации\nстраниц\nв соц. сетях"
+class TargetedAdvertising as "Форма \nнастройки\nтаргетированной\nрекламы"
+
+Entity <|-- Window 
+
+Window <|-- Competitors 
+Window <|-- Market 
+Window <|-- Factors 
+Window <|-- Strategy 
+Window <|-- KeySelection 
+Window <|-- KeyApproval 
+Window <|-- Scheduling 
+Window <|-- SiteOptimization 
+Window <|-- TechnicalOptimization 
+Window <|-- ContentOptimization 
+Window <|-- Usability 
+Window <|-- Advertising 
+Window <|-- SocialNetwork 
+Window <|-- TargetedAdvertising 
+
+hide members
+hide circle
+hide methods
+@enduml
